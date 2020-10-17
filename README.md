@@ -3,7 +3,7 @@
 
 ___
 
-### Submission 1: Aplikasi Github User
+### Submission : Aplikasi Github User
 
 #### Kriteria Submission
 
