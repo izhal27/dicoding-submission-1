@@ -1,5 +1,6 @@
 # Submission 1
-### Tugas Belajar Fundamental Aplikasi Android Dicoding
+### Tugas Belajar Fundamental Aplikasi Android Dicoding.
+#### Program Pengembangan Talenta Digital Kreatif tahun 2020 oleh Kemenparekraf/Baparekraf.
 
 ___
 
